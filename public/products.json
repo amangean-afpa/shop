@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Poivre noir en grains",
+    "price": 599,
+    "image": "/img/poivre-noir-en-grains-fume.jpg",
+    "category": {
+      "id": 1,
+      "name": "épices"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Paprika doux",
+    "price": 299,
+    "image": "/img/800x800.png",
+    "category": {
+      "id": 1,
+      "name": "épices"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Gingembre moulu",
+    "price": 379,
+    "image": "/img/graines-de-gingembre-zingiber-officinale.jpg",
+    "category": {
+      "id": 1,
+      "name": "épices"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Flocons d'avoine",
+    "price": 299,
+    "image": "/img/bio-flocons-avoine-gros-5kg.jpg",
+    "category": {
+      "id": 2,
+      "name": "céréales"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Muesli aux fruits",
+    "price": 349,
+    "image": "/img/779197.jpg",
+    "category": {
+      "id": 2,
+      "name": "céréales"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pâtes penne",
+    "price": 199,
+    "image": "/img/penne_pasta.jpg",
+    "category": {
+      "id": 2,
+      "name": "céréales"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Quinoa",
+    "price": 549,
+    "image": "/img/quinoa-8-1200.jpg",
+    "category": {
+      "id": 2,
+      "name": "céréales"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sauce tomate",
+    "price": 199,
+    "image": "/img/sauce-tomate-800x600.jpg",
+    "category": {
+      "id": 3,
+      "name": "conserves"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Haricots verts en conserve",
+    "price": 149,
+    "image": "/img/1955832-haricotsvertsbio.jpg",
+    "category": {
+      "id": 3,
+      "name": "conserves"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Thon en boîte",
+    "price": 279,
+    "image": "/img/3-choses-que-vous-devriez-savoir-sur-le-thon-en-conserve.jpeg",
+    "category": {
+      "id": 3,
+      "name": "conserves"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Maïs en conserve",
+    "price": 169,
+    "image": "/img/5eba77cf82394.jpg",
+    "category": {
+      "id": 3,
+      "name": "conserves"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Ananas en tranches",
+    "price": 229,
+    "image": "/img/ananas.jpg",
+    "category": {
+      "id": 3,
+      "name": "conserves"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Chocolat noir 70% cacao",
+    "price": 379,
+    "image": "/img/n1-chocolat-noir-72.jpg",
+    "category": {
+      "id": 4,
+      "name": "confiseries"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Barre de chocolat au lait",
+    "price": 299,
+    "image": "/img/lait_choco_sante.jpeg",
+    "category": {
+      "id": 4,
+      "name": "confiseries"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Pépites de chocolat",
+    "price": 329,
+    "image": "/img/pepites-de-chocolat-noir-70-de-cacao.jpg",
+    "category": {
+      "id": 4,
+      "name": "confiseries"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Guimauves",
+    "price": 199,
+    "image": "/img/guimauve.jpg",
+    "category": {
+      "id": 4,
+      "name": "confiseries"
+    }
+  }
+]
